@@ -162,3 +162,8 @@ Tesseract OCR
 Google Text-to-Speech
 
 Raspberry Pi
+
+Contact :
+-----------------------------------------------------------------------------------------------------------------------
+
+If you have any questions or inquiries, please contact us via email at muhmdkhaled05@gmail.com.
