@@ -4,7 +4,8 @@ Glasses Sight Assistance Project
 Overview
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project aims to provide an assistive tool for individuals with visual impairments by combining image processing, text-to-speech conversion, and physical interaction capabilities using a Raspberry Pi.
-The system captures images, extracts text from them, and reads the text aloud to the user. It also includes proximity detection and button-triggered operations to ensure seamless interaction.
+The system captures images, extracts text from them, and reads the text aloud to the user. 
+It also includes proximity detection and button-triggered operations to ensure seamless interaction.
 
 
 ![WhatsApp Image 2024-06-29 at 15 07 04_4f49b12e](https://github.com/user-attachments/assets/dc257e85-acae-432f-977b-559f65867c7d)
